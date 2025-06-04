@@ -26,12 +26,12 @@ sobreMi.onclick = () => {
 const vcardData = `
 BEGIN:VCARD
 VERSION:3.0
-FN:Laura Bravo
-ORG:Bankiando
-TEL;TYPE=CELL:+57 3128788424
-EMAIL:inglaurabravo91@gmail.com
-URL:https://www.bankiando.com
-URL:https://www.instagram.com/bankiando
+FN:Mateo Sanchez
+ORG:Consultorias en seguridad social Premium
+TEL;TYPE=CELL:+57 3505238631
+EMAIL:cs@consultores.net.co
+URL:https://consultores.net.co
+URL:https://www.instagram.com/consultorespremium
 END:VCARD
   `.trim();
 
