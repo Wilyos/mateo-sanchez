@@ -576,21 +576,21 @@ transform: scale(1.03);
     width: 52vw;
   }
 
-  .services-container{
+ .services-container{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   align-items: center;
   gap: 2.5rem;
 }
 
 .service-info h4{
-  font-size: 3rem;
+  font-size: 2.5rem;
   margin: 2rem 0;
   font-weight: 800;
 }
 
 .service-info p{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   line-height: 1.2;
 }
